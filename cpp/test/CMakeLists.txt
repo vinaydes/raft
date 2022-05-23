@@ -84,6 +84,7 @@ add_executable(test_raft
     test/random/rng.cu
     test/random/rng_int.cu
     test/random/sample_without_replacement.cu
+    test/random/rng_chisquare.cu
     test/span.cpp
     test/span.cu
     test/sparse/add.cu
